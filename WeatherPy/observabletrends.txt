@@ -1,0 +1,5 @@
+1) From the scatter plot comparing Latitude to Temperature, you can verify that weather is warmer near equator and gets cooler as you move towards the poles.
+
+2) Humidity is mostly higher across different Latitude while Cloudiness is spread all over and show no significant clustering hence there is no correlation.
+
+3) Wind Speed is clustered mostly on the low end across x axis and can be deemed to have no relationship to Latitude.
